@@ -1,0 +1,10 @@
+.card{
+    margin: 10px;
+}
+.content{
+    padding: 10px;
+}
+.navbar-brand{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 2em;
+}
